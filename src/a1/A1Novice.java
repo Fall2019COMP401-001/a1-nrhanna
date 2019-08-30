@@ -25,7 +25,7 @@ public class A1Novice {
 				totalSpent = totalSpent + itemPrice * quantityOfEachItemBought;
 
 			}
-			
+
 			System.out.println(firstName.charAt(0) + ". " + lastName + ": " + String.format("%.2f", totalSpent));
 
 		}

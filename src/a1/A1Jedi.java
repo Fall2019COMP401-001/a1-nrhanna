@@ -47,7 +47,7 @@ public class A1Jedi {
 				System.out.println("No customers bought " + itemName[j]);
 
 			} else {
-				System.out.println(howManyCustomers[j] + " customers bought " +howManyBought[j] + " " + itemName[j]);
+				System.out.println(howManyCustomers[j] + " customers bought " + howManyBought[j] + " " + itemName[j]);
 
 			}
 		}
